@@ -191,6 +191,11 @@
         <mxCell id="8NhmUaMjaSFr7UT7n-q3-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NhmUaMjaSFr7UT7n-q3-21" target="8NhmUaMjaSFr7UT7n-q3-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8NhmUaMjaSFr7UT7n-q3-80" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8NhmUaMjaSFr7UT7n-q3-73">
+          <mxGeometry x="-0.0513" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8NhmUaMjaSFr7UT7n-q3-74" value="外部串口消息接收/发送" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="405" y="1160" width="135" height="40" as="geometry" />
         </mxCell>
