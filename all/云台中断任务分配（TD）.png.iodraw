@@ -218,7 +218,7 @@
         <mxCell id="8NhmUaMjaSFr7UT7n-q3-76" value="看门狗喂狗（500ms超时）&lt;div&gt;串口消息的协议解析处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="385" y="1480" width="165" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8NhmUaMjaSFr7UT7n-q3-83" value="" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="8NhmUaMjaSFr7UT7n-q3-83" value="更新数据：&lt;div&gt;ICM688&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="622.5" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
