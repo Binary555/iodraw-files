@@ -202,6 +202,11 @@
         <mxCell id="8NhmUaMjaSFr7UT7n-q3-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NhmUaMjaSFr7UT7n-q3-25" target="8NhmUaMjaSFr7UT7n-q3-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8NhmUaMjaSFr7UT7n-q3-81" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Event&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8NhmUaMjaSFr7UT7n-q3-75">
+          <mxGeometry x="-0.0889" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8NhmUaMjaSFr7UT7n-q3-76" value="看门狗喂狗（500ms超时）&lt;div&gt;串口消息的协议解析处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="385" y="1480" width="165" height="40" as="geometry" />
         </mxCell>
