@@ -187,7 +187,7 @@
         <mxCell id="8NhmUaMjaSFr7UT7n-q3-66" value="none" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8NhmUaMjaSFr7UT7n-q3-68" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SGM42560电机驱动故障触发&lt;/span&gt;&lt;/p&gt;&lt;div&gt;SOC主机通信数据接收，并触发数据发送&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;spacingTop=-5;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="8NhmUaMjaSFr7UT7n-q3-68" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SGM42560电机驱动故障触发&lt;/span&gt;&lt;/p&gt;&lt;div&gt;SOC主机通信数据接收，并触发数据发送&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;spacingTop=-4;verticalAlign=top;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="750" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8NhmUaMjaSFr7UT7n-q3-72" value="SOC串口消息接收/发送" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
