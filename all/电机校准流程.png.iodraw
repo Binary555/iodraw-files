@@ -1,0 +1,535 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="q4COTfnlZFIOTJCT2_W7">
+    <mxGraphModel dx="1204" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry width="1640" height="2330" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-2" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="780" y="2050" width="630" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-3" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="780" y="756" width="630" height="674" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-4" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="200" y="760" width="540" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-5" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;" parent="IxgkzBEO2zYNsr3Hc063-4" vertex="1">
+          <mxGeometry width="540" height="359.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-6" value="校准步骤计数器值：1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-4" vertex="1">
+          <mxGeometry width="130" height="32.72727272727273" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-7" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1770" width="540" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-8" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="200" y="1136" width="540" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-9" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;" parent="IxgkzBEO2zYNsr3Hc063-8" vertex="1">
+          <mxGeometry width="540" height="479.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-10" value="校准步骤计数器值：2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-8" vertex="1">
+          <mxGeometry width="130" height="43.63636363636363" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-11" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="200" y="760" width="540" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-12" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;" parent="IxgkzBEO2zYNsr3Hc063-11" vertex="1">
+          <mxGeometry width="540" height="359.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-13" value="校准步骤计数器值：1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-11" vertex="1">
+          <mxGeometry width="130" height="32.72727272727273" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-14" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="190" y="428" width="340" height="312" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-15" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;" parent="IxgkzBEO2zYNsr3Hc063-14" vertex="1">
+          <mxGeometry width="340" height="312.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-16" value="校准步骤计数器值：0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-14" vertex="1">
+          <mxGeometry width="120" height="26.218487394957982" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-17" value="&lt;h1&gt;motor_calibrate_handle&lt;/h1&gt;&lt;p&gt;负责校准三轴电机，通过采集原始编码器数据和陀螺仪数据，融合计算线性编码值。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry y="10" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-19" target="IxgkzBEO2zYNsr3Hc063-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-19" value="1khz执行" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IxgkzBEO2zYNsr3Hc063-24" target="IxgkzBEO2zYNsr3Hc063-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.3081" y="-3" relative="1" as="geometry">
+            <mxPoint x="-4" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-24" target="IxgkzBEO2zYNsr3Hc063-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-23" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.2963" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="2.290000000000001" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-24" value="&lt;b&gt;检查imu初始化是否正常&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="190" width="168" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-26" target="IxgkzBEO2zYNsr3Hc063-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-26" value="&lt;b&gt;系统电机校准标志置位&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="300" width="168" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-28" target="IxgkzBEO2zYNsr3Hc063-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-28" value="校准步骤计数器清零" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="348" y="390" width="132" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-30" target="IxgkzBEO2zYNsr3Hc063-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-30" value="初始化所有电机参数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="350" y="440" width="128" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-32" target="IxgkzBEO2zYNsr3Hc063-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-32" value="设置C电机开环控制步长（正方向值）" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="348" y="500" width="132" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-33" value="将所有电机切换至D轴开环控制状态，清除Q轴电流指令，电机线序、偏置参数清零。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" parent="1" vertex="1">
+          <mxGeometry x="184" y="360" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-36" target="IxgkzBEO2zYNsr3Hc063-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-35" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-34" vertex="1" connectable="0">
+          <mxGeometry x="-0.3419" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-36" value="监测imu稳定状态标&lt;br&gt;志位是否置位" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="324" y="560" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-37" value="说明电机转到限位处，机身整体静止" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" parent="1" vertex="1">
+          <mxGeometry x="204" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-39" target="IxgkzBEO2zYNsr3Hc063-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-39" value="编码器、陀螺仪积分值，稳定计数器，校准计数器清零。&lt;br&gt;校准步骤计数器自增。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="329" y="670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-61" target="IxgkzBEO2zYNsr3Hc063-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-42" target="IxgkzBEO2zYNsr3Hc063-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-42" value="校准计数器 &amp;gt; 阈值 &amp;amp;&amp;amp;&lt;br&gt;电机线序已标定 &amp;amp;&amp;amp;&amp;nbsp;&lt;br&gt;imu稳定标志位置位" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="314" y="1196" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-47" target="IxgkzBEO2zYNsr3Hc063-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-44" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.3655" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-47" target="IxgkzBEO2zYNsr3Hc063-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="578" y="1341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-46" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.2774" relative="1" as="geometry">
+            <mxPoint x="2.95" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-47" value="稳定计数器自增 &amp;gt; 阈值" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="330" y="1316" width="168" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-49" target="IxgkzBEO2zYNsr3Hc063-78" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-49" value="陀螺仪积分值清零，&lt;br&gt;电机驱动电角度 -=步长 * 阈值，&lt;br&gt;步长设置为正方向，&lt;br&gt;稳定计数器、校准计数器清零，&lt;br&gt;校准步骤计数器自增。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="328" y="1406" width="172" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-51" target="IxgkzBEO2zYNsr3Hc063-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-51" value="陀螺仪积分，&lt;br&gt;稳定计数器清零" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="570" y="1321" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-53" target="IxgkzBEO2zYNsr3Hc063-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-53" value="电机线序未标定" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="560" y="1386" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IxgkzBEO2zYNsr3Hc063-58" target="IxgkzBEO2zYNsr3Hc063-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-55" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-54" vertex="1" connectable="0">
+          <mxGeometry x="0.1583" relative="1" as="geometry">
+            <mxPoint y="-22.740000000000002" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IxgkzBEO2zYNsr3Hc063-58" target="IxgkzBEO2zYNsr3Hc063-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-57" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-56" vertex="1" connectable="0">
+          <mxGeometry x="-0.1856" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-58" value="陀螺仪积分值 &amp;gt; PI(阈值）" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="530" y="1456" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-59" value="电机线序标定值置0x00" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="555" y="1566" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-60" value="电机线序标定值置0x01" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="555" y="1586" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-61" value="校准计数器自增" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="364" y="1156" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-63" target="IxgkzBEO2zYNsr3Hc063-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-63" value="校准计数器自增" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="364" y="780" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-68" target="IxgkzBEO2zYNsr3Hc063-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="589" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-65" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-64" vertex="1" connectable="0">
+          <mxGeometry x="-0.1994" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-68" target="IxgkzBEO2zYNsr3Hc063-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-67" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-66" vertex="1" connectable="0">
+          <mxGeometry x="-0.2286" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-68" value="校准计数器 &amp;gt; 阈值 &amp;amp;&amp;amp;&amp;nbsp;&lt;br&gt;imu稳定标志位置位" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="319" y="840" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-70" target="IxgkzBEO2zYNsr3Hc063-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-70" value="稳定计数器自增 &amp;gt; 阈值" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="319" y="970" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-71" value="稳定计数器清零" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="600" y="870" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IxgkzBEO2zYNsr3Hc063-73" target="IxgkzBEO2zYNsr3Hc063-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-73" value="电机驱动电角度 -=步长 * 阈值，&lt;br&gt;步长设置为负方向，&lt;br&gt;稳定计数器、校准计数器清零，&lt;br&gt;校准步骤计数器自增。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="320" y="1040" width="188" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IxgkzBEO2zYNsr3Hc063-78" target="IxgkzBEO2zYNsr3Hc063-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-75" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1650" width="540" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-76" value="校准步骤计数器值：3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="200" y="1650" width="130" height="32.72727272727273" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-78" target="IxgkzBEO2zYNsr3Hc063-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-78" value="逻辑同于校准步骤1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="354" y="1675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-80" target="IxgkzBEO2zYNsr3Hc063-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-80" value="校准计数器自增" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="364" y="1800" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-82" target="IxgkzBEO2zYNsr3Hc063-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-82" value="电机霍尔传感器校准&lt;br&gt;motor_hall_calibrate" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="348" y="1850" width="132" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-83" value="校准步骤计数器值：4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="200" y="1770" width="130" height="32.72727272727273" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-84" value="实时采集传感器数据，记录各路信号的极大极小值并计算用于信号归一化所需的参数" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#ffffff;position2=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="1790" width="172" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-85" value="校准计数器 &amp;gt; 阈值 &amp;amp;&amp;amp;&amp;nbsp;&lt;br&gt;imu稳定标志位置位" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="319" y="1920" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IxgkzBEO2zYNsr3Hc063-85" target="IxgkzBEO2zYNsr3Hc063-88" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="594" y="1960" as="targetPoint" />
+            <mxPoint x="514" y="1960" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-87" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-86" vertex="1" connectable="0">
+          <mxGeometry x="-0.1994" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-88" value="稳定计数器清零" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="600" y="1950" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-89" value="电机驱动电角度 -=步长 * 阈值，&lt;br&gt;步长设置为负方向，&lt;br&gt;稳定计数器、校准计数器清零，&lt;br&gt;校准步骤计数器自增。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="320" y="1040" width="188" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IxgkzBEO2zYNsr3Hc063-85" target="IxgkzBEO2zYNsr3Hc063-93" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="2010" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-91" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-90" vertex="1" connectable="0">
+          <mxGeometry x="-0.2286" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-93" target="IxgkzBEO2zYNsr3Hc063-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="2130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-93" value="稳定计数器自增 &amp;gt; 阈值" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="319" y="2050" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IxgkzBEO2zYNsr3Hc063-95" target="IxgkzBEO2zYNsr3Hc063-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="754" y="2165" />
+              <mxPoint x="754" y="750" />
+              <mxPoint x="1050" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-95" value="记录原始编码器零点偏置量，&lt;br&gt;电机驱动电角度 -=步长 * 阈值，&lt;br&gt;步长设置为正方向，&lt;br&gt;稳定计数器、校准计数器清零，&lt;br&gt;校准步骤计数器自增。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="320" y="2120" width="188" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-96" value="校准步骤计数器值：5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="780" y="760" width="130" height="32.72727272727273" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-98" target="IxgkzBEO2zYNsr3Hc063-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-98" value="校准计数器自增" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1000" y="779" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-100" target="IxgkzBEO2zYNsr3Hc063-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-100" value="下标 = 原始编码值/100&lt;br&gt;（0度对应下标0）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="980" y="830" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-101" value="此处的编码值已经过欧拉角度化，值域为[0,36000]（取小数点后两位），对应计算得到的&lt;b&gt;下标&lt;/b&gt;将由0增加直到电机转到限位处触发imu稳定标志位达到最大值" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#ffffff;position2=0;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="770" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-106" target="IxgkzBEO2zYNsr3Hc063-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-103" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-102" vertex="1" connectable="0">
+          <mxGeometry x="-0.192" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IxgkzBEO2zYNsr3Hc063-106" target="IxgkzBEO2zYNsr3Hc063-113" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-105" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-104" vertex="1" connectable="0">
+          <mxGeometry x="-0.2286" y="-1" relative="1" as="geometry">
+            <mxPoint x="-17.43" y="-1.02" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-106" value="校准计数器 &amp;gt; 阈值 &amp;amp;&amp;amp;&amp;nbsp;&lt;br&gt;imu稳定标志位置位 &amp;amp;&amp;amp;&amp;nbsp;&lt;br&gt;下标 &amp;gt; 180(阈值)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="930" y="900" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-108" target="IxgkzBEO2zYNsr3Hc063-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-108" value="稳定计数器 &amp;gt; 阈值" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="980" y="1030" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-110" target="IxgkzBEO2zYNsr3Hc063-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-110" value="缩放系数 = 理论机械转动角度最大值 / 实际积分角度最大值" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="880" y="1110" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-112" target="IxgkzBEO2zYNsr3Hc063-115" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="1242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-112" value="使用下标遍历当前(C)电机参数存储数组并使用缩放系数等比缩放所有参数，&lt;br&gt;检测参数是否合法，使用相邻数据处理当前非法参数。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="830" y="1176" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-113" value="稳定计数器清零，&lt;br&gt;电机参数存储数组[C电机][下标] = 陀螺仪积分并欧拉角度化的值。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1150" y="1020" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-115" target="IxgkzBEO2zYNsr3Hc063-117" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="1329.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-115" value="从最大下标处向后继续遍历10个长度的参数列表以及最小下标（0）向前遍历10个长度（350~359）分别填充理论数值以避免限位弹性存在无参数区域。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="880" y="1246" width="340" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-117" target="IxgkzBEO2zYNsr3Hc063-121" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-117" value="陀螺仪积分值清零，&lt;br&gt;电机驱动电角度 -=步长 * 阈值，&lt;br&gt;步长设置为负方向，&lt;br&gt;稳定计数器、校准计数器清零，&lt;br&gt;校准步骤计数器自增。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="964" y="1336" width="172" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-118" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="780" y="1456" width="630" height="584" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-119" value="校准步骤计数器值：6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="780" y="1456" width="130" height="43.63636363636363" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-121" target="IxgkzBEO2zYNsr3Hc063-127" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-121" value="校准计数器自增" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1000" y="1490" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-127" target="IxgkzBEO2zYNsr3Hc063-134" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-123" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-122" vertex="1" connectable="0">
+          <mxGeometry x="-0.2208" y="-2" relative="1" as="geometry">
+            <mxPoint x="-10.83" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-127" target="IxgkzBEO2zYNsr3Hc063-129" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-125" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-124" vertex="1" connectable="0">
+          <mxGeometry x="0.0244" y="-4" relative="1" as="geometry">
+            <mxPoint x="4" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IxgkzBEO2zYNsr3Hc063-127" target="IxgkzBEO2zYNsr3Hc063-142" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="1561" />
+              <mxPoint x="1140" y="1790" />
+              <mxPoint x="1050" y="1790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-127" value="校准计数器 &amp;lt; 阈值1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="980" y="1536" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-129" target="IxgkzBEO2zYNsr3Hc063-140" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-129" value="校准计数器 &amp;gt; 阈值2" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="980" y="1625" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-134" target="IxgkzBEO2zYNsr3Hc063-136" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-131" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-130" vertex="1" connectable="0">
+          <mxGeometry x="-0.2649" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IxgkzBEO2zYNsr3Hc063-134" target="IxgkzBEO2zYNsr3Hc063-137" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1350" y="1561" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-133" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="IxgkzBEO2zYNsr3Hc063-132" vertex="1" connectable="0">
+          <mxGeometry x="-0.1186" y="1" relative="1" as="geometry">
+            <mxPoint x="-2" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-134" value="imu稳定标志位置位" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1536" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-136" target="IxgkzBEO2zYNsr3Hc063-138" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-136" value="稳定计数器自增 &amp;gt; 阈值" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1190" y="1650.0000000000002" width="160" height="64.54" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-137" value="稳定计数器清零" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1300" y="1605.9999999999998" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-138" value="记录电机驱动电角度零点偏置量，&lt;br&gt;电机校准标志位置位，&lt;br&gt;电机切入Q轴闭环控制，设置Q轴指令，&lt;br&gt;保存电机参数到flash" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1150" y="1749.36" width="240" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-139" value="阈值1 &amp;gt; 阈值2，用于让电机从机械限位处转出来一些，并在D轴开环控制的状态下，通过手动清零电角度，记录电机驱动电角度零点偏置量" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#ffffff;position2=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="1516" width="174" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-140" value="拖动电角度清零，&lt;br&gt;拖动步长清零，&lt;br&gt;设置D轴指令到最大值" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="980" y="1714.54" width="140" height="50.92" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IxgkzBEO2zYNsr3Hc063-142" target="IxgkzBEO2zYNsr3Hc063-144" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-142" value="C电机校准标志位已置位" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="940" y="1810" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-144" target="IxgkzBEO2zYNsr3Hc063-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-144" value="B电机拖动步长设置为正方向" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="960" y="1880" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-146" target="IxgkzBEO2zYNsr3Hc063-148" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-146" value="imu稳定标志位未置位" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="940" y="1930" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IxgkzBEO2zYNsr3Hc063-148" target="IxgkzBEO2zYNsr3Hc063-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-148" value="稳定计数器，校准计数器清零，&lt;br&gt;校准步骤计数器自增。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="960" y="2000" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-149" value="逻辑同于校准步骤1，且后续校准流程一致" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="900" y="2110" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxgkzBEO2zYNsr3Hc063-150" value="校准步骤计数器值：7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="780" y="2050" width="130" height="43.63636363636363" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
